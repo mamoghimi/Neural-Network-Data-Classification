@@ -54,14 +54,7 @@ python circular_classification.py
 - Spiral Data Classification without Noise
 https://github.com/user-attachments/assets/fc7dd3e4-51a0-4c76-b126-1d6b57230a48
 
-%- Spiral Data Classification with Noise
-%https://github.com/user-attachments/assets/19d8bc26-7f6c-420b-83cf-e87ecaa2813b
 
-%- Circular Data Classification without Noise
-%https://github.com/user-attachments/assets/238142e1-042c-491d-89bc-0e93e9054280
-
-%- Circular Data Classification with Noise
-%https://github.com/user-attachments/assets/d6e5f35e-8fbc-41cb-8fdd-199c452ee34c
 
 
 
