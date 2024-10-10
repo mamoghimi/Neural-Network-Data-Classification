@@ -36,16 +36,16 @@ pip install torch matplotlib numpy scikit-learn
 ```
 # Usage
 To run the project, follow these steps:
-1- Clone the repository:
+- Clone the repository:
 ```bash
 git clone https://github.com/your-username/neural-network-visualization.git
 cd neural-network-visualization
 ```
-2- Run the script for spiral data classification:
+- Run the script for spiral data classification:
 ```bash
 python spiral_classification.py
 ```
-3- Run the script for circular data classification:
+- Run the script for circular data classification:
 ```bash
 python circular_classification.py
 ```
@@ -53,12 +53,16 @@ python circular_classification.py
 # Examples
 - Spiral Data Classification without Noise
 https://github.com/user-attachments/assets/fc7dd3e4-51a0-4c76-b126-1d6b57230a48
+
 - Spiral Data Classification with Noise
 https://github.com/user-attachments/assets/19d8bc26-7f6c-420b-83cf-e87ecaa2813b
+
 - Circular Data Classification without Noise
 https://github.com/user-attachments/assets/238142e1-042c-491d-89bc-0e93e9054280
+
 - Circular Data Classification with Noise
 https://github.com/user-attachments/assets/d6e5f35e-8fbc-41cb-8fdd-199c452ee34c
+
 
 
 
